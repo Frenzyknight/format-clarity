@@ -574,7 +574,9 @@ Summary: {parsed['reasoning_summary']}"""
 
 Think step by step, then provide your classification."""
 
-        response = f"""{reasoning}
+        response = f"""<think>
+{reasoning}
+</think>
 
 LABEL: {label}"""
 

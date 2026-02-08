@@ -1,0 +1,238 @@
+index,question,prediction,raw_output
+0,Do you think that is a good thing?,Clear Reply,Clear Reply
+1,"Mr. President, have you any ideas on what should be done with the evidence turned up on Senator McCarthy by that subcommittee?",Clear Non-Reply,Clear Non-Reply
+2,Does the Prime Minister feel that that would have a major impact on the peace talks?,Ambivalent,Ambivalent
+3,Do you think the advantages all around would outweigh the risks or the embarrassments?,Clear Reply,Clear Reply
+4,So he said those things under oath?,Ambivalent,Ambivalent
+5,Would you be willing to speak under oath to give your version of those events?,Clear Reply,Clear Reply
+6,Do you agree that the next step against Iran should be sanctions if Iran fails to comply with the Security Council's 30-day deadline on its nuclear program?,Ambivalent,Ambivalent
+7,Have you signed the commission for United States Attorney for Mr. Johnson of Nevada?,Clear Non-Reply,Clear Non-Reply
+8,Do you think that Reagan is running a campaign of hatred and racism?,Clear Reply,Clear Reply
+9,How do you answer allegations that you are running a mean campaign?,Ambivalent,Ambivalent
+10,Are you sorry that more countries did not take a more active part in the effort to help South Vietnam?,Clear Reply,Clear Reply
+11,Are you going to do it now?,Clear Non-Reply,Clear Non-Reply
+12,You have said the Ford administration is the only one that has done anything.,Ambivalent,Ambivalent
+13,Can you explain to Canadians——,Clear Non-Reply,Clear Non-Reply
+14,When is that?,Clear Non-Reply,Clear Non-Reply
+15,Is that in public?,Clear Non-Reply,Clear Non-Reply
+16,Could you elaborate on the strategic partnership between the two countries?,Clear Non-Reply,Clear Non-Reply
+17,Do you believe Israel has strategic importance to the United States in the aftermath of the Cold War?,Clear Reply,Clear Reply
+18,Still any problems that have to be worked out?,Clear Reply,Clear Reply
+19,Do the legal mechanisms of NAFTA provide it with strength so that it is not put aside by decree?,Ambivalent,Ambivalent
+20,"President Obama, what pending issues do you have in your administration that you would have liked to complete?",Ambivalent,Ambivalent
+21,We understand that you have had a number of offers?,Clear Reply,Clear Reply
+22,And about his role in Syria and the region?,Clear Non-Reply,Clear Non-Reply
+23,"They don't decide anything, do they?",Clear Reply,Clear Reply
+24,Do we have any reason to believe that the Vietcong offer to exchange prisoners had any substance to it?,Clear Non-Reply,Clear Non-Reply
+25,You said you wanted to hear more.,Ambivalent,Ambivalent
+26,Is there anything that worries you about this plan?,Clear Reply,Clear Reply
+27,Are you willing to risk another jolt to the economy from this large price increase?,Ambivalent,Ambivalent
+28,You mean that you are not going to write them immediately?,Clear Reply,Clear Reply
+29,How far will that extend--off the Continental Shelf?,Ambivalent,Ambivalent
+30,Do you think the return of the Republicans to power means a realignment of the political parties after the 4 years?,Clear Reply,Clear Reply
+31,Are there any estimates at all of the amount potentially that might be saved as a result of the directives being issued today?,Clear Non-Reply,Clear Non-Reply
+32,Do you see the chance that the United States would exercise its option to withdraw from the Anti-Ballistic Missile Treaty if it is not possible to negotiate changes to permit a national missile defense?,Ambivalent,Ambivalent
+33,Was this possibility raised in your discussions with President Putin?,Ambivalent,Ambivalent
+34,"In light of his speech yesterday at the U.N., are there any new steps that we can take to continue the arms reduction process?",Clear Reply,Clear Reply
+35,Does your note establish a precedent--asking for a conference with your successor?,Clear Non-Reply,Clear Non-Reply
+36,Is there a specific situation in which the U.S. Government might consider giving Colombia military support to fight the guerrillas?,Clear Reply,Clear Reply
+37,Will we renew her tourist visa?,Clear Reply,Clear Reply
+38,How effective can these National Guard troops be if they're shuttling in and out of the border area every two or three weeks?,Ambivalent,Ambivalent
+39,How are you going to turn around these House Members who seem to be unswayed by your argument on the guest-worker program?,Ambivalent,Ambivalent
+40,Do you have a specific target for how much you want that violence to be reduced?,Ambivalent,Ambivalent
+41,"Mr. President, would you keep both him and Mr. Kelley in their jobs?",Clear Reply,Clear Reply
+42,"What do you feel about Russia's continuation of reducing within START III the number of warheads down to 1,500 warheads?",Clear Non-Reply,Clear Non-Reply
+43,Can you now envision a time of real peace between Israel and its Arab neighbors?,Clear Reply,Clear Reply
+44,To what extent has a new government in Israel contributed to this process?,Clear Reply,Clear Reply
+45,Have you reached a decision in the Rosenberg case?,Clear Reply,Clear Reply
+46,Did you seriously consider naming Arthur Goldberg as Chief Justice after the Fortas nomination was withdrawn?,Clear Reply,Clear Reply
+47,Have you received any reply from Governor Roosevelt?,Clear Reply,Clear Reply
+48,My question is about the Supreme Court.,Ambivalent,Ambivalent
+49,"Could you tell us why it took you 6 days and four clarifications before you finally admitted that you had, in fact, made a mistake in the debate in your remarks on Eastern Europe?",Clear Reply,Clear Reply
+50,Could you characterize the worry you heard from Iraqi leaders about U.S. troop levels that you first mentioned on the flight home from Iraq?,Clear Non-Reply,Clear Non-Reply
+51,"After your visit, do you truly believe that the tide is turning in Iraq?",Ambivalent,Ambivalent
+52,How do you feel about leaving Camp David?,Clear Reply,Clear Reply
+53,You are including the Southern Democrats in progressives?,Clear Reply,Clear Reply
+54,"Is this perhaps not time to go the inch in [Arafat’s] direction and start some kind of talks with Mr. Arafat rather than, as Mr. Shultz did, close the door on him?",Clear Reply,Clear Reply
+55,So you don't expect to bring up human rights?,Clear Reply,Clear Reply
+56,"Have you decided, sir, on how you are going to deliver the State of the Union Message?",Clear Reply,Clear Reply
+57,"Mr. President, how did you try to convince the Prime Minister today that that kind of violations of human rights will stop and guilty will be prosecuted?",Clear Reply,Clear Reply
+58,"Mr. Prime Minister, are you today convinced that violations of human rights will stop so that these violations are not undermining the war for democracy in Iraq?",Ambivalent,Ambivalent
+59,"What about written questions, do you think that would have",Clear Non-Reply,Clear Non-Reply
+60,"What about this basic question of settlements, sir, that's been so touchy between the two countries?",Ambivalent,Ambivalent
+61,"To clear up the situation in Louisiana, Mr. President, is it your expectation that no Federal troops will be necessary there?",Clear Reply,Clear Reply
+62,Are there inherent and unavoidable risks in allowing the sale of a defense firm to interests owned by Dubai?,Ambivalent,Ambivalent
+63,"I got a few more, if you like.",Ambivalent,Ambivalent
+64,How close are you to an agreement on a package of incentives for Iran?,Ambivalent,Ambivalent
+65,What does Iran stand to gain if it were to give up its enrichment program?,Ambivalent,Ambivalent
+66,Why are you ignoring these recent back-channel overtures from Iran?,Ambivalent,Ambivalent
+67,"Over the course of this investigation, have you learned anything that you didn't know before about what was going on in your administration?",Ambivalent,Ambivalent
+68,Do you have any work to do to rebuild credibility that might have been lost?,Ambivalent,Ambivalent
+69,Have you anything more on the war debts?,Clear Reply,Clear Reply
+70,Did you feel that reporters had been fair to you in their questions?,Ambivalent,Ambivalent
+71,What are the prerequisites or conditions for resumption of some sort of trade with Red China?,Clear Reply,Clear Reply
+72,"Are you going to do it now, sir?",Ambivalent,Ambivalent
+73,Do you think you should be discussing it with him?,Clear Reply,Clear Reply
+74,"Do you think the press conference should be regular—like you hold it—once a week, or twice a week?",Ambivalent,Ambivalent
+75,Do you both accept that the Iraqi Government is a substantial vindication of the conflict?,Ambivalent,Ambivalent
+76,"Do you also accept that the Iraq conflict has left both of you politically weakened and, whether justly or unjustly, less able to give the kind of moral leadership that you're discussing today?",Ambivalent,Ambivalent
+77,What idea from a critic or somebody outside your administration have you concluded should be part of the strategy going forward in Iraq?,Clear Reply,Clear Reply
+78,Can you confirm if it's true that tomorrow you will meet in Lisbon with Prime Minister from Israel Ehud Barak?,Clear Reply,Clear Reply
+79,Would you sum up for us your idea of what kind of a United States you would like your grandchildren to live in?,Clear Reply,Clear Reply
+80,Does the closeness of today's abortion vote in the Supreme Court suggest that abortion rights are at risk in the next court?,Clear Reply,Clear Reply
+81,"Or, does the fact that partial birth abortion can survive even a conservative court suggest that they aren't as threatened as some believe?",Ambivalent,Ambivalent
+82,It sounds like you are willing to give an endorsement.,Ambivalent,Ambivalent
+83,Would you go along with border protection only and a guest-worker program?,Ambivalent,Ambivalent
+84,"Mr. President, could you tell us anything further about your plans when you leave office, in a personal vein?",Clear Non-Reply,Clear Non-Reply
+85,Could you elaborate on your feelings about your relations with the press?,Clear Non-Reply,Clear Non-Reply
+86,Could you elaborate on your feelings about these press conferences in particular?,Clear Non-Reply,Clear Non-Reply
+87,Does the President of the United States get any such pension as that?,Clear Reply,Clear Reply
+88,"Is it true that under the Yalta agreement on voting procedure two of the Big Powers have the power to overrule discussions on any proposal that might be brought up, not only force but anything else?",Ambivalent,Ambivalent
+89,"So ""no"" to a tax on profits?",Ambivalent,Ambivalent
+90,Do you think that President Gorbachev has really changed?,Ambivalent,Ambivalent
+91,"To the extent that he has changed, have you changed?",Ambivalent,Ambivalent
+92,What have you learned over these 8 years that may have changed your view of the Soviet system?,Ambivalent,Ambivalent
+93,"Are you flying back to Houston without us, sir?",Ambivalent,Ambivalent
+94,How do you see the holdouts?,Clear Non-Reply,Clear Non-Reply
+95,"So your Italian accent, of course.",Ambivalent,Ambivalent
+96,"Would it be better for the Attorney General, for your administration, and for the Vice President's candidacy if he invited such an investigation?",Ambivalent,Ambivalent
+97,Will you talk about Haiti after this week?,Ambivalent,Ambivalent
+98,Have you found out anything more about the situation in Haiti?,Ambivalent,Ambivalent
+99,Does the Federal Government have the lead role in this right now?,Clear Reply,Clear Reply
+100,How can the United States help Lebanon cope with the massive number of Syrian refugees?,Ambivalent,Ambivalent
+101,Is there a way you can help facilitate the refugees' return to their home country?,Ambivalent,Ambivalent
+102,"My question is for you, Mr. President, first.",Ambivalent,Ambivalent
+103,Are you making any provisions in your order for the so-called claims of California and Texas?,Clear Reply,Clear Reply
+104,"In other words, you agree with the majority, rather than Mr. Clark?",Clear Non-Reply,Clear Non-Reply
+105,Can you tell us roughly how many dependents will be pulled back?,Clear Reply,Clear Reply
+106,"What are your feelings about discussions, in the new Iraqi Government, of amnesty for insurgents?",Ambivalent,Ambivalent
+107,"Regarding the oil resources in Iraq that you discussed, do you support guaranteeing the Sunnis a percentage of the oil profits, either through a new law or through a constitutional provision?",Clear Non-Reply,Clear Non-Reply
+108,Are you going to ride in the Magellan15 to Independence?,Clear Reply,Clear Reply
+109,Do you expect that Mr. Nixon will be accused of creating a credibility gap?,Ambivalent,Ambivalent
+110,How much do you estimate would be available for education?,Clear Non-Reply,Clear Non-Reply
+111,"But they were ready to move sooner if asked, weren't they?",Clear Non-Reply,Clear Non-Reply
+112,Will it take 3 or 4 years yet to complete it?,Clear Reply,Clear Reply
+113,When is Margaret coming down here?,Ambivalent,Ambivalent
+114,Why do you feel James Comey’s testimony vindicated you when it boils down to his word against your word?,Ambivalent,Ambivalent
+115,Do tapes exist of your conversations with James Comey?,Ambivalent,Ambivalent
+116,I wanted to know if it was going to be transferred to the Navy?,Clear Reply,Clear Reply
+117,Do you think the moratorium will have to go on for another year?,Clear Non-Reply,Clear Non-Reply
+118,"Mr. President, could you comment on Senators Lieberman and Collins’ statement that they want to see FEMA abolished?",Ambivalent,Ambivalent
+119,"With hurricane season only a month away, can you assure the American people that your Government has learned the lessons of Katrina?",Clear Reply,Clear Reply
+120,Possible amnesty for insurgents.,Clear Non-Reply,Clear Non-Reply
+121,"Was that what you read in the paper, that you were going to support him against Mayor LaGuardia?",Clear Reply,Clear Reply
+122,If I could ask briefly about the economic summit—the communique—,Ambivalent,Ambivalent
+123,"Mr. President, that is background?",Clear Reply,Clear Reply
+124,How do you think the transition is going?,Ambivalent,Ambivalent
+125,"Can you tell us, sir, what you think is the greatest problem confronting your successor?",Clear Reply,Clear Reply
+126,Do you think the debates have helped keep up the level of the campaign?,Ambivalent,Ambivalent
+127,"Is the course of it by national arrangements rather than multinational, do you think?",Ambivalent,Ambivalent
+128,Could you give us a little preview of how the steal would occur?,Clear Non-Reply,Clear Non-Reply
+129,"Weren't troops ready to move sooner than that at Bragg, though, and elsewhere?",Ambivalent,Ambivalent
+130,Did the St. Lawrence come up in your discussions?,Clear Reply,Clear Reply
+131,"You have described it in the past as a billion dollar steal, I think?",Clear Reply,Clear Reply
+132,"Have you given up on doing anything forceful about the continuing chaos in Panama and Nicaragua and now, once again, in Haiti since you have not used up all of your options, including the option of military force?",Ambivalent,Ambivalent
+133,Is there any prospect at all in the rest of your administration for resuming military assistance to the resistance fighters?,Ambivalent,Ambivalent
+134,Are there any circumstances under which you would release your convention delegates to vote their preference on the first Presidential ballot?,Ambivalent,Ambivalent
+135,Do you fear that doing so might hurt your chances of getting the nomination?,Ambivalent,Ambivalent
+136,Does he have another one?,Ambivalent,Ambivalent
+137,Is the tide turning in Iraq?,Ambivalent,Ambivalent
+138,What is your position towards the additional sanctions against Hizballah introduced by Congress last week?,Clear Non-Reply,Clear Non-Reply
+139,What is your position on the role of Hizballah in the region and in Syria?,Clear Non-Reply,Clear Non-Reply
+140,Do you think there will be a division--,Ambivalent,Ambivalent
+141,Do you resent the fact that he insulted your Haiti policy during the campaign?,Clear Reply,Clear Reply
+142,Do you resent the fact that he has now adopted it?,Clear Reply,Clear Reply
+143,Would you consider a recess appointment if your nominee is not granted a hearing?,Ambivalent,Ambivalent
+144,Will Mrs. Truman be with you all this time?,Clear Reply,Clear Reply
+145,Is the magnitude of this disaster going to require additional Federal funds?,Clear Non-Reply,Clear Non-Reply
+146,Would you advise the Republicans in the House to vote solidly against this proposal which has been called the packing plan?,Clear Non-Reply,Clear Non-Reply
+147,"Was there a political consideration in not going to Kennebunkport, sir?",Clear Reply,Clear Reply
+148,Weren't you ready to send troops in there sooner?,Ambivalent,Ambivalent
+149,Do you think that Mr. Gorbachev is trying to remake the Soviet Union into a less threatening country?,Clear Reply,Clear Reply
+150,In your Economic Message you took no notice of the division within your Council of Economic Advisers?,Ambivalent,Ambivalent
+151,You are not planning any special program from here on in?,Clear Reply,Clear Reply
+152,What advice can you give in encouraging constructive protests within the system concerning student unrest?,Clear Non-Reply,Clear Non-Reply
+153,"What advice can you give in opposing the violent, campus destructive protests concerning student unrest?",Clear Non-Reply,Clear Non-Reply
+154,Is it true that Lyn is being left behind to help in the transition?,Clear Reply,Clear Reply
+155,Can it be implemented?,Clear Reply,Clear Reply
+156,Doesn't the United States have to come up with more money to actually have the missiles at the silos?,Ambivalent,Ambivalent
+157,"President Raúl Castro, you have repeatedly stated, and today once again, that we must learn to coexist in a civilized manner with our differences. Could you broaden this concept at this historical moment that we are living in?",Clear Non-Reply,Clear Non-Reply
+158,"President Obama, could U.S. Government give more space to eliminate U.S. blockade during your mandate so that another generation of Cubans would not have to suffer this economic and commercial blockade against Cuba?",Ambivalent,Ambivalent
+159,"Can I have a follow-up, as he had also?",Ambivalent,Ambivalent
+160,"If the situation in the Baltic were to escalate, what would the U.S. be ready to do in that unfortunate circumstances?",Clear Non-Reply,Clear Non-Reply
+161,What have you enjoyed most?,Clear Reply,Clear Reply
+162,What is the thing you're going to miss the most?,Ambivalent,Ambivalent
+163,"Sir, have we moved back from the brink of military action that you hinted at yesterday?",Ambivalent,Ambivalent
+164,"Are you satisfied, generally, with the modalities of autonomy that Mr. Rabin has presented here?",Clear Non-Reply,Clear Non-Reply
+165,Are you guys going to race?,Clear Reply,Clear Reply
+166,"Mr. President, speaking of politics, can you visualize yourself stumping the country again on behalf of anybody in the years ahead?",Clear Non-Reply,Clear Non-Reply
+167,"Mr. President, there is one question that is left unanswered.",Clear Non-Reply,Clear Non-Reply
+168,How much ammunition do you think that this gives Michael Dukakis on the so-called sleaze factor?,Clear Reply,Clear Reply
+169,"What was that question, Mr. President?",Clear Reply,Clear Reply
+170,"Sir, if I may follow up. On Tuesday, you said, if we have to close down our Government, we are building that wall.",Ambivalent,Ambivalent
+171,Is she going to Independence with you?,Clear Reply,Clear Reply
+172,"As of now, would you change it?",Clear Reply,Clear Reply
+173,What is your opinion of the role Watergate played in the election of a Democrat in the Congressional district in Cincinnati yesterday?,Clear Reply,Clear Reply
+174,Is there a crisis in the savings and loan industry?,Clear Reply,Clear Reply
+175,Will the American taxpayer have to bail it out?,Ambivalent,Ambivalent
+176,What do you think of Trump's approach to Putin?,Ambivalent,Ambivalent
+177,How would it affect America's interest on the international stage?,Ambivalent,Ambivalent
+178,Won't those tunnels be used later for the power end of the project?,Clear Reply,Clear Reply
+179,"If Mexico is paying for the wall, why would we close down our Government?",Ambivalent,Ambivalent
+180,Are you going to take a press pool to Houston?,Clear Reply,Clear Reply
+181,Are you going to write your memoirs?,Clear Non-Reply,Clear Non-Reply
+182,Are you going to run for Senator from Missouri?,Clear Reply,Clear Reply
+183,"Given everything you've been hearing from Mr. Ahmadi-nejad over the past several weeks and months, in your estimation, is this someone you can work with?",Ambivalent,Ambivalent
+184,Have you authority to do that now?,Clear Reply,Clear Reply
+185,Do you plan to stop at the livestock show at St. Louis?,Clear Reply,Clear Reply
+186,"Were you disappointed with the early response, sir?",Clear Reply,Clear Reply
+187,Were you in contact with Governor Chiles as soon as that plan was developed to be sure that he understood it?,Clear Reply,Clear Reply
+188,"Could [Governor Chiles] right then, the second he asked for Federal assistance, be assured these troops would be in there?",Ambivalent,Ambivalent
+189,"Is that something you want, sir?",Clear Reply,Clear Reply
+190,What's the toughest thing that you've had in your job?,Ambivalent,Ambivalent
+191,What's been the toughest part of these 8 years?,Ambivalent,Ambivalent
+192,"Is there a disposition to forget about that, for the time being?",Clear Reply,Clear Reply
+193,Do you think Governor Roosevelt's visit might come as early as Wednesday?,Clear Non-Reply,Clear Non-Reply
+194,Were there any discussions about the Visa Waiver Program for Romania?,Clear Reply,Clear Reply
+195,Is there a timeframe for including Romania in this program?,Ambivalent,Ambivalent
+196,And you seem to be hinting that there are recordings of those conversations.,Clear Reply,Clear Reply
+197,Did he not in his statement say that he accepts the U.N. articles and that he recognizes Israel?,Ambivalent,Ambivalent
+198,What is the fine line that he hasn't crossed?,Ambivalent,Ambivalent
+199,Do you think that FEMA is prepared for the season?,Ambivalent,Ambivalent
+200,Is there any way to measure FEMA’s preparedness at this point?,Ambivalent,Ambivalent
+201,Is there any hope by the end of the year that we might see some of the fliers released from North Vietnam?,Clear Non-Reply,Clear Non-Reply
+202,"So if the Justice Department was informing Billy at the same time that you were learning of this from the Justice Department, you're saying, in effect, that there was no need, even, for anyone in the White House to let Billy know that he should come in and voluntarily admit that he was an agent?",Ambivalent,Ambivalent
+203,That's three. That's three.,Ambivalent,Ambivalent
+204,"And if she asks for it, will we grant her permanent residence?",Ambivalent,Ambivalent
+205,Have you come to a firm decision on the value of the third-term amendment—no third-term amendment?,Clear Reply,Clear Reply
+206,Do you have any idea that might usefully be put forward for the use of ex-Presidents of the United States?,Ambivalent,Ambivalent
+207,Now that doesn't apply to any other commercial products that might be in the submerged lands?,Clear Reply,Clear Reply
+208,Where do you see a breakthrough in this dispute?,Ambivalent,Ambivalent
+209,Do you see any indications to make us believe that this crisis will come to an end?,Ambivalent,Ambivalent
+210,"Mr. President, for national defense purposes, I assume?",Clear Reply,Clear Reply
+211,Have there been any further communications from the Secretary of State?,Clear Reply,Clear Reply
+212,Are you planning to visit the drought area yourself and take a firsthand look yourself?,Clear Non-Reply,Clear Non-Reply
+213,When will you tell us about the recordings?,Ambivalent,Ambivalent
+214,"Well, let me just ask the question.",Clear Reply,Clear Reply
+215,Was Chiles slow to ask for Federal troops?,Clear Non-Reply,Clear Non-Reply
+216,Do you have any reason to believe that the American hostages who are still being held in the Middle East will be released after you leave office?,Ambivalent,Ambivalent
+217,Would you go along with an effort by some Senate Republicans that could levy a significant tax on oil companies' profits?,Ambivalent,Ambivalent
+218,Does it bother you that the oil companies are racking up these record profits when people are paying $3 a gallon?,Ambivalent,Ambivalent
+219,Would you veto an immigration bill that did not include a guest-worker program?,Ambivalent,Ambivalent
+220,How do you counter the angry argument from conservatives on Capitol Hill who are saying that your demand for one could hurt the Republican Party this fall?,Ambivalent,Ambivalent
+221,It looks as though if they can't pay us we'll have to give them more time.,Clear Non-Reply,Clear Non-Reply
+222,Do you trust Gorbachev?,Clear Reply,Clear Reply
+223,Does an apology rule out the question of honor?,Ambivalent,Ambivalent
+224,Isn't the greater likelihood that this is a very widespread scandal?,Ambivalent,Ambivalent
+225,"Mr. President, on the question of the Japanese mandates that you say will be taken away from them, who will be the controlling government in those mandates, the United States?",Clear Reply,Clear Reply
+226,"Have the negotiations for renewal of the exchange agreement with the Soviet Union, scheduled to begin next Tuesday, been postponed?",Clear Reply,Clear Reply
+227,"Mr. President, as a result of your 8 years of press conferences, have you any recommendations for changes?",Clear Reply,Clear Reply
+228,Might it not have happened if you had kept a tighter rein on what was going on and inquired more closely into what was happening in this and in other situations?,Ambivalent,Ambivalent
+229,Does this situation make you reconsider the possibility of a Government shutdown next month?,Clear Reply,Clear Reply
+230,"When can we expect results, sir?",Ambivalent,Ambivalent
+231,Do you feel this transition period should be shortened or changed in any way?,Clear Reply,Clear Reply
+232,Are you satisfied from what you have learned out of your meeting with the President with regard to the Iranian issue?,Clear Reply,Clear Reply
+233,What's your message to the Israeli public about this issue?,Ambivalent,Ambivalent
+234,"With your permission, is there a military option, from your point of view, to solve the threat of the Iranian problem, their work on—to getting nuclear weapons?",Ambivalent,Ambivalent
+235,Do you feel that the Attorney General should indeed stay? Should he resign? Do you intend on firing him? Why should he remain as the Attorney General?,Ambivalent,Ambivalent
+236,"With the health care vote that just came about, at what point do you feel that Republicans, if they can't get something done, should just say, you know what, we gave it a go, let's move on to tax reform instead?",Ambivalent,Ambivalent

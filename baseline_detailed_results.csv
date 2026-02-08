@@ -1,0 +1,309 @@
+index,question,ground_truth,prediction,correct
+0, Inquiring about the status or information regarding the redline.,Ambivalent,Clear Non-Reply,False
+1,Will you invite them to the White House to negotiate on the jobs bill?,Ambivalent,Ambivalent,True
+2,Why was it necessary for Japan to drop the threat of sanctions from its proposed Security Council resolution about North Korea?,Ambivalent,Ambivalent,True
+3,When will we see this resolution?,Ambivalent,Ambivalent,True
+4,Updating the figure of Iraqi deaths,Ambivalent,Ambivalent,True
+5,Do you think the Republican leader in the House owes somebody an apology?,Ambivalent,Ambivalent,True
+6,Do you ever feel like the walls are closing in on you in terms of support for this?,Ambivalent,Clear Non-Reply,False
+7, Is the demand for Israeli troops to pull out immediately negotiable?,Ambivalent,Ambivalent,True
+8,What are you offering the Arab nations to encourage them to participate?,Ambivalent,Ambivalent,True
+9,Isn't Tehran's influence in the region growing despite your efforts to curb it?,Ambivalent,Clear Reply,False
+10,. Has he changed?,Ambivalent,Clear Reply,False
+11,Shape of the multinational force,Clear Reply,PARSE_ERROR,False
+12,Do you see any contradictory evidence in the culture?,Ambivalent,Ambivalent,True
+13,What have they achieved and what will they leave behind for their successors?,Clear Reply,Ambivalent,False
+14,Are you willing to acknowledge that a change may be needed?,Ambivalent,Clear Reply,False
+15,Messages for the Governments of Iran and Syria,Clear Reply,Clear Reply,True
+16,What is your philosophy on granting Presidential pardons?,Ambivalent,Ambivalent,True
+17,Would you campaign against Senator Joe Lieberman on Iraq?,Ambivalent,Clear Non-Reply,False
+18,Would you veto the bill if it passes in the form that the Armed Services Committee approved yesterday?,Ambivalent,Clear Non-Reply,False
+19,What makes this more than a piece of paper if you don't have the will of the international community to back it up?,Ambivalent,Ambivalent,True
+20, Fear and concern in Israel that the administration will not take necessary action against Iran due to the duration and unpopularity of the war in Iraq.,Ambivalent,Ambivalent,True
+21,Was this coordinated with you?,Clear Reply,Clear Reply,True
+22,. What are the odds for a guest-worker provision?,Ambivalent,Clear Non-Reply,False
+23,"Are you concerned that the fiscal pressures the United States is under at the moment may compromise its ability to sustain its plans for the region, including the initiatives announced today?",Ambivalent,Clear Non-Reply,False
+24,"What is the hook to get Hizballah to accept a cease-fire, stop shooting, and stop kidnapping soldiers from across the border of another country?",Ambivalent,Ambivalent,True
+25,What is the outlook in your view when you will be presenting your first report?,Ambivalent,Ambivalent,True
+26,When are you going to tell the Israelis to stop destroying houses in Lebanon?,Ambivalent,Ambivalent,True
+27,Do you have to take those with something of a grain of salt until the supercommittee process is concluded?,Ambivalent,Clear Non-Reply,False
+28,Why do you still say there is a relationship between them?,Ambivalent,Ambivalent,True
+29,"Mr. President, if the EU does not receive a definitive answer from Iran on the incentives package by next week, do you foresee the G-8 summit as being a springboard to bring that issue to the U.N. Security Council?",Clear Non-Reply,Ambivalent,False
+30, New Policy on Intercepting North Korean Ships,Clear Reply,Ambivalent,False
+31,How do you measure progress with a body count like that?,Ambivalent,Clear Non-Reply,False
+32,Why would you agree with Senator McCain or Senator Obama?,Clear Non-Reply,Clear Non-Reply,True
+33,What do you say to people who say more troops in Iraq would increase the sectarian split and not calm things down?,Ambivalent,Ambivalent,True
+34,Are you still willing to follow a path that seems to be in opposition to the will of the American people?,Ambivalent,PARSE_ERROR,False
+35,How much of a political price do you think you're paying for that right now?,Ambivalent,Ambivalent,True
+36,Is it no longer important to track him down?,Clear Reply,Clear Non-Reply,False
+37,New instructions for Secretary Rice's visit to the region,Ambivalent,Clear Reply,False
+38,What message do you hope this summit sends to Senator Jon Kyl and other Republicans in the Senate who are resisting voting on and ratifying START in the lame duck session?,Ambivalent,Ambivalent,True
+39,"Role of China in Africa's development and its positive aspects, areas of improvement, and stance on human rights issues and corruption.",Ambivalent,Ambivalent,True
+40,Potential impact on the President's viewpoint,Ambivalent,Ambivalent,True
+41,"Did Prime Minister Olmert present positions to Mr. Bush that contradict those of the Americans, and is there concern that his recent statement suggests his hands are tied when it comes to Iran?",Ambivalent,Ambivalent,True
+42,Do you and the President believe that Israel is on the right side in the war on terror?,Ambivalent,Ambivalent,True
+43,Other financial steps the President is prepared to take if the rate cut is deemed insufficient,Ambivalent,Ambivalent,True
+44, Has it improved the chances of something like Mideast peace?,Ambivalent,Ambivalent,True
+45,. Efforts President Lee Myung-bak intends to employ to reach an agreement,Ambivalent,Ambivalent,True
+46,Concern about financial institutions seeking investments from foreign government-controlled funds.,Clear Reply,PARSE_ERROR,False
+47,Will you pressure the French to contribute more troops?,Ambivalent,Ambivalent,True
+48,Is there any chance of getting a deal?,Ambivalent,Ambivalent,True
+49,Will the prison close?,Clear Non-Reply,Ambivalent,False
+50,What sort of cooperation do you think is possible between the U.S. and Japan to address the abduction issue?,Ambivalent,Ambivalent,True
+51,How do you feel about Plan B in general?,Clear Reply,Clear Reply,True
+52,"Can you continue to sustain the kind of level of spending that you've invested in, in Iraq?",Ambivalent,Ambivalent,True
+53,What is the magnet?,Ambivalent,Ambivalent,True
+54,Addressing the desire of Cuban exiles to go home and reclaim their property.,Clear Reply,Ambivalent,False
+55,Revisiting immigration in a lame-duck session after the election,Ambivalent,Ambivalent,True
+56," Why wouldn't you be frustrated, sir, about what's happening?",Clear Non-Reply,Clear Non-Reply,True
+57,Administration's contingency plans for his death,Ambivalent,Clear Non-Reply,False
+58,Performance of the Fed in handling the financial crisis,Clear Reply,Clear Reply,True
+59,What do you say to people who are losing patience with gas prices at $3 a gallon?,Ambivalent,Ambivalent,True
+60, Request for permission to ask another question on veterans.,Clear Reply,Clear Non-Reply,False
+61,Permission to direct a question to President Hu.,Clear Reply,Clear Reply,True
+62,"And to President Karzai, if I might, what do you think of President Musharraf's comments that you need to get to know your own country better when you're talking about where terror threats and the Taliban threat is coming from?",Ambivalent,Clear Non-Reply,False
+63, Has House Speaker Hastert lost touch within his own ranks?,Clear Reply,Clear Reply,True
+64,Will the President pledge to the family of Corporal Pat Tillman that the government and administration will finally get to the bottom of his death?,Ambivalent,Ambivalent,True
+65,"Mr. Harper, can you comment in French and English, please?",Ambivalent,Ambivalent,True
+66,How do you see the situation with the Iranian nuclear issue as of now?,Clear Reply,Ambivalent,False
+67,Are the individuals satisfied with the assurances given on the tribal deal?,Clear Reply,Clear Reply,True
+68,What remains to be done?,Ambivalent,Ambivalent,True
+69,What did you mean by 'Third Awakening'?,Clear Reply,Ambivalent,False
+70, Asking about the President's feelings towards war rhetoric and going to war with Iraq.,Clear Reply,Clear Reply,True
+71,Opinion on the potential duration of the diplomacy process,Clear Non-Reply,Clear Non-Reply,True
+72,Reappointment of U.S. Attorney Patrick Fitzgerald,Clear Non-Reply,Ambivalent,False
+73,Do you stand by this choice?,Clear Reply,Ambivalent,False
+74,Are you considering a plan to cut corporate taxes?,Ambivalent,Ambivalent,True
+75,What do you think about Senator McCain's statement that your plan will put U.S. troops at risk?,Ambivalent,Ambivalent,True
+76,What are we to expect in the future regarding the Iranian nuclear issue?,Clear Reply,Ambivalent,False
+77,"If it's not time yet, what is the threshold?",Ambivalent,Ambivalent,True
+78,Do you believe that the previous administration sanctioned torture?,Ambivalent,Clear Non-Reply,False
+79,Why not call for an emergency energy summit and lift the issue to a higher priority?,Ambivalent,Ambivalent,True
+80,Why would the international force not include U.S. troops?,Clear Reply,Ambivalent,False
+81,Can't you be accused of hyping this threat?,Ambivalent,Ambivalent,True
+82,Asking about what has happened to America's clout in the region and why the actions and words of the President are being ignored.,Ambivalent,Ambivalent,True
+83,Has the U.S. reached out to Grand Ayatollah Ali al-Sistani?,Ambivalent,Clear Non-Reply,False
+84,"Can you now tell us, where was it headed?",Clear Non-Reply,Clear Non-Reply,True
+85,Why does the asker request Israel to accept United Nations resolutions related to the Palestinian problem in order to facilitate a solution and end the occupation?,Ambivalent,Ambivalent,True
+86,Concern about triggering a wider Middle East war,Ambivalent,Ambivalent,True
+87, Do you think it's working now the way it's going?,Clear Reply,Clear Reply,True
+88,"Mr. President, after 9/11, would the United States have actually attacked Pakistan if President Musharraf had not agreed to cooperate with the war on terrorism? He says that the United States was threatening to bomb his country back into the Stone Age.",Clear Non-Reply,Ambivalent,False
+89,Blame for a government shutdown,Clear Reply,Clear Reply,True
+90, Is there anything you wish you would have done differently with regard to Iraq?,Clear Reply,Ambivalent,False
+91,The potential complications in keeping pressure on Iran's sanctions at the United Nations,Ambivalent,Ambivalent,True
+92,Or have you and Musharraf worked out some deal about this already?,Ambivalent,Clear Non-Reply,False
+93,"What other areas do you believe you're building a record of transformation in, apart from Iraq, that you hope will last the ages?",Clear Reply,Ambivalent,False
+94,"Can you comment about your concerns that come out of it at all, about for the region?",Clear Non-Reply,Clear Non-Reply,True
+95,"And what do you say to Americans who are frustrated by the familiar roadblocks, it seems, of China and Russia on harsh sanctions?",Ambivalent,Ambivalent,True
+96,How will you go about persuading the Russians and the Chinese to back those moves if you make them?,Ambivalent,Ambivalent,True
+97,"Mr. President, your joint statement on missile defense is still far short of a deal for Russian support or even acquiescence on this project. Isn't this just a matter of kicking the can down the road, in the twilight of both of your terms, to a new U.S. administration that may or may not even support it?",Clear Reply,Ambivalent,False
+98,"What do you say to the argument that your proposal is basically seeking support for torture, coerced evidence, and secret hearings?",Ambivalent,Ambivalent,True
+99,"What kind of punishment would you like to see imposed on North Korea, short of some sort of condemnation from the U.N. Security Council",Ambivalent,Clear Non-Reply,False
+100,"And if it's approved, when will we see a cessation of violence?",Ambivalent,Ambivalent,True
+101,Disappointment with Iraq's unity Government's progress in bringing together sectarian and ethnic groups.,Clear Reply,Clear Reply,True
+102, Willingness to take action in order to prevent a similar outcome as in 1992.,Clear Reply,Ambivalent,False
+103,What will be your top concern when you meet with Musharraf later this week?,Ambivalent,Ambivalent,True
+104,Risk of wider war due to growing support for Hizballah,Ambivalent,Ambivalent,True
+105,"How close are we to a stock exchange crash, and what measures have you taken so that it does not affect the real economy?",Ambivalent,Clear Reply,False
+106,"Why did you keep saying that there was a relationship between Saddam Hussein, Zarqawi, and Al Qaida despite the report stating there was no link?",Ambivalent,Ambivalent,True
+107,Do you believe America's corporations are not making enough money these days?,Ambivalent,Clear Non-Reply,False
+108,Current condition of Fidel Castro,Clear Non-Reply,Ambivalent,False
+109,Is your willingness to work with Congress now an acknowledgment that that is a fact?,Ambivalent,Ambivalent,True
+110,"Based on the visit to the United States and the discussions with President Bush regarding cotton subsidies, have things evolved since then?",Ambivalent,Ambivalent,True
+111,Are you prepared now to just take the possibility of one-on-one talks with North Korea off the table?,Ambivalent,Ambivalent,True
+112,Do you like them?,Ambivalent,Clear Non-Reply,False
+113,"Even after hearing that one of the major conclusions of the National Intelligence Estimate in April was that the Iraq war has fueled terror growth around the world, why have you continued to say that the Iraq war has made this country safer?",Clear Reply,PARSE_ERROR,False
+114,Change in assessment of Mayor Daley's tenure based on the conviction of one of his former officials for rigging city jobs to benefit the mayor's political workers,Ambivalent,Clear Reply,False
+115,Or do you feel that he has traveled too far and too fast?,Ambivalent,Ambivalent,True
+116,What is your plan for either changing your role or keeping control of the agenda at a time when Democrats have both Houses on the Hill and when the '08 candidates are doing their thing?,Ambivalent,Clear Non-Reply,False
+117,What led you to that conclusion?,Clear Reply,Ambivalent,False
+118,Do you agree with the Republican leader in the House that Democrats are more interested in protecting terrorists than protecting the American people?,Ambivalent,Ambivalent,True
+119,Have you spoken directly with Prime Ministers Olmert and Siniora?,Ambivalent,Ambivalent,True
+120,Do you want Israel to win the war on terror rather than stopping it?,Ambivalent,Ambivalent,True
+121,Whether the President considers the report credible,Clear Reply,Clear Reply,True
+122,"Are you committed to building the 700 miles of fence, actual fencing?",Clear Reply,Clear Reply,True
+123,Participants of the multinational force,Ambivalent,Ambivalent,True
+124,Did you cross the t's and dot the i's in your discussion with President Bush regarding the security needs?,Clear Reply,Clear Reply,True
+125,Can you explain why this approach was not taken a couple of weeks ago when it is being considered now?,Clear Reply,Clear Reply,True
+126,Do you feel in some way that there is some shift going on in terms of the general support for your strategy specifically?,Ambivalent,Ambivalent,True
+127,"Mr. President, are you disappointed that the Israelis and the Palestinians haven't made more specific progress since Annapolis?",Ambivalent,PARSE_ERROR,False
+128,The person's view on breaking an oath for a truce,Ambivalent,Clear Non-Reply,False
+129,"What do you see as the biggest mistakes in the management of the war, and what do you propose to do to correct them?",Ambivalent,Ambivalent,True
+130,Do you think the decision by your G-20 counterparts here to endorse stiff deficit reduction goals is a repudiation of your view that cutting deficits too quickly and too fast would hinder the global economic recovery?,Ambivalent,Clear Non-Reply,False
+131,How do you respond to his charges?,Ambivalent,Ambivalent,True
+132,What about military options against North Korea once diplomacy and the timetable have been exhausted?,Ambivalent,Clear Non-Reply,False
+133,expectations for the families of the Illinois National Guardsmen who have left for Iraq,Clear Reply,Clear Reply,True
+134,"Do you demand that the peacekeeping force, if and when it gets up and running, disarm Hizballah?",Ambivalent,Ambivalent,True
+135,What is the President's level of concern about protectionism in general?,Ambivalent,Clear Reply,False
+136,What do you say to both the American people and the international community regarding the recent actions of North Korea?,Ambivalent,Ambivalent,True
+137,"On the NATO allies, do you believe that they're avoiding the fight, or at least some of them are?",Ambivalent,Ambivalent,True
+138,Has the scandal damaged Hastert's credibility and effectiveness in maintaining party control in the midterm elections?,Ambivalent,Clear Reply,False
+139,Performance of Ben Bernanke,Clear Reply,Clear Reply,True
+140,Are you willing to speak to President Asad to end the crisis in Lebanon?,Ambivalent,Clear Reply,False
+141,Inquiring about the results of the talks,Clear Reply,Clear Reply,True
+142, Do Americans and the rest of the world wonder if the strategy being followed is flawed based on Colin Powell's statement?,Ambivalent,Ambivalent,True
+143, Has it made it more complicated in your mind?,Ambivalent,Ambivalent,True
+144, Concerns about the U.S. policy leading to a flood of hot money in the Korean economy.,Clear Reply,Clear Reply,True
+145,Assessment of the job performance,Clear Reply,Ambivalent,False
+146,Discussing proliferation of weapons of mass destruction and missile delivery,Clear Reply,Ambivalent,False
+147,Would you campaign for Mike Fitzpatrick?,Clear Reply,Ambivalent,False
+148,Are you worried that the steps European leaders are taking are too incremental so far?,Ambivalent,Ambivalent,True
+149,Can the Prime Minister respond in both French and English?,Ambivalent,Clear Non-Reply,False
+150,President's opinion on the Republican candidates defending waterboarding practice at the Republican debate.,Clear Reply,Clear Reply,True
+151,Does the administration and our Government run a risk of looking feckless to the world by issuing these kinds of warnings regularly without response from the countries?,Ambivalent,Ambivalent,True
+152,Is your policy consistent between the way you have dealt with Iraq and the way you have dealt with North Korea?,Ambivalent,Ambivalent,True
+153,"If so, is this Nation able to sustain military action on three fronts: Iraq, Afghanistan, and North Korea?",Ambivalent,Ambivalent,True
+154,"Can we go back to North Korea, Mr. President?",Clear Reply,Ambivalent,False
+155,What is the minimum expectation from you that you will call this conference a success?,Ambivalent,Ambivalent,True
+156,"What is the President's intention regarding American troop levels, considering his previous statements and remarks?",Ambivalent,Clear Non-Reply,False
+157,Do you consider yourself to be stingy when it comes to pardons?,Ambivalent,Ambivalent,True
+158,General Abizaid said that the danger that Iraq is facing is the religious danger. Do you agree with his assessment? And do you see that—is there any security plan that can really curb the religious violence?,Clear Reply,Ambivalent,False
+159,Dealing with dangerous suspects,Ambivalent,Ambivalent,True
+160,Why not talk to Syria and Iran directly about this crisis and have a back-and-forth conversation?,Ambivalent,Ambivalent,True
+161,Why shouldn't we see the cease-fire as one that essentially is falling apart?,Ambivalent,Ambivalent,True
+162,Don't you worry that that undermines U.S. credibility?,Ambivalent,Ambivalent,True
+163,"In light of the recent political tumult in Greece causing Americans to lose what they had gained back in their 401(k)s, are you confident that the bailout plan will actually happen and if so, will it work?",Clear Reply,Ambivalent,False
+164,Does the tension between two allies undermine the efforts of getting bin Laden?,Clear Reply,Clear Reply,True
+165,"Why do you think it's a bad idea to send more resources to hunt down bin Laden, wherever he is?",Clear Reply,Ambivalent,False
+166,Is it fair to portray the war on terror as either being fully supported by certain individuals or being supported by no one at all?,Ambivalent,Ambivalent,True
+167,"Is it now past the deadline, or do they still have more time to respond?",Ambivalent,Clear Non-Reply,False
+168,Can we hold you to that?,Ambivalent,Clear Non-Reply,False
+169, Assessing the cooperation between the two Presidents: Have there been more pluses or minuses?,Ambivalent,Ambivalent,True
+170,What kind of threat do you think North Korea poses to world peace right now?,Ambivalent,Ambivalent,True
+171,Time to start talking about Iraq as being in a civil war?,Clear Reply,Ambivalent,False
+172, Leadership of the multinational force,Ambivalent,Ambivalent,True
+173,How do you punish or penalize a country that's already among the poorest and most isolated in the world?,Ambivalent,Ambivalent,True
+174,"What are your thoughts on Chinese officials saying that you need to get involved in the six-party talks and stop dealing with the issue of money laundering, and instead focus on the real issue of ballistic missiles?",Clear Reply,Ambivalent,False
+175,Did you discuss what you could move on—in North Korea to move it forward?,Ambivalent,Ambivalent,True
+176, Do you think that Turkey has the legitimate right to stage a cross-country offensive—cross-border offensive?,Ambivalent,Clear Reply,False
+177,What if they say deeper spending cuts before you consider tax hikes?,Ambivalent,Ambivalent,True
+178,Was President Karzai able to convince the person in their meetings that Iran was playing a helpful role in Afghanistan?,Ambivalent,Clear Non-Reply,False
+179,Concern about criticism and questions related to the handling of a terrorist suspect,Ambivalent,Ambivalent,True
+180, Is the issue of cotton still a sensitive issue in Benin?,Ambivalent,Ambivalent,True
+181,Whether Hizballah's agreement should be a precondition for setting up the force,Ambivalent,Ambivalent,True
+182,"Are you prepared today to agree with Prime Minister Blair and acknowledge that you have had the same expectations, which were wrong?",Ambivalent,Ambivalent,True
+183,"And, President Musharraf, would Pakistan have given up its backing of the Taliban if this threat had not come from Armitage?",Clear Non-Reply,Clear Non-Reply,True
+184,Confidence in Republicans holding the House and the Senate?,Clear Reply,Clear Reply,True
+185,Permission to go inside Pakistan,Ambivalent,Ambivalent,True
+186,Did you support it?,Clear Non-Reply,Clear Non-Reply,True
+187,Do you feel like you have been an effective leader when it comes to the economy?,Ambivalent,Ambivalent,True
+188, Why would this be a good idea or not?,Clear Non-Reply,Ambivalent,False
+189,Is your administration to blame for letting North Korea get this far?,Ambivalent,Ambivalent,True
+190,Are people who are saying that we're moving forward to a full war wrong?,Ambivalent,Clear Non-Reply,False
+191, Do you trust or believe that the opposition will accept your invitation for a dialog?,Clear Reply,Ambivalent,False
+192,Do you feel in some way that there is some shift going on in terms of the general support for the war in Iraq?,Ambivalent,Ambivalent,True
+193,. Obstacle to reaching agreement on the KORUS FTA issue,Clear Reply,Ambivalent,False
+194,Should Fannie Mae and Freddie Mac be allowed to buy mortgages beyond their current limits or play any additional role that could help revive mortgage finance?,Ambivalent,Ambivalent,True
+195,How important is a competitive dollar in keeping U.S. exports strong and growing?,Ambivalent,Ambivalent,True
+196,"Are you frustrated, sir?",Ambivalent,Ambivalent,True
+197,\n2. Do you believe that the biggest drag on the Republican Party is the situation in Iraq?,Ambivalent,Ambivalent,True
+198,"Specifically, what has your administration done in the past year to help the folks down there?",Clear Reply,PARSE_ERROR,False
+199,Do you agree with the Prime Minister's supporters that he led the way on the issue?,Ambivalent,Ambivalent,True
+200,Influence of U.S.-Russian relationship on world politics: How has this relationship affected world politics?,Ambivalent,Ambivalent,True
+201,Is it because the military is already overtasked?,Ambivalent,Ambivalent,True
+202,"If you had actionable intelligence about the whereabouts of top Al Qaida leaders in Pakistan, would you wait for Musharraf's permission to send in U.S. forces, even if it meant missing an opportunity to take them out?",Ambivalent,Ambivalent,True
+203,Are we headed toward a military action in North Korea?,Ambivalent,Ambivalent,True
+204,Do you think that the statement made by the Republican leader in the House is the right tone to set for the upcoming campaign?,Ambivalent,Ambivalent,True
+205,Government shutdown threat,Ambivalent,Clear Reply,False
+206,"Is that a make-or-break issue for you, in terms of domestic politics?",Ambivalent,Clear Non-Reply,False
+207,Clarification on whether the NIE (National Intelligence Estimate) will result in a change in U.S. policy towards Iran or a shift in focus.,Ambivalent,Ambivalent,True
+208,"Will Secretary Rice be reaching out to Berri, as she had spoken with him before?",Ambivalent,Ambivalent,True
+209,Will the U.N. Security Council move quickly on sanctions if Iran does not stop or suspend its enrichment program?,Ambivalent,Ambivalent,True
+210,What kind of cooperation do you think is possible between Japan and the United States to resolve the missile issue related to the North Koreans launching Taepodong-2?,Ambivalent,Ambivalent,True
+211,Do you want the United Nations to impose sanctions on North Korea?,Ambivalent,Ambivalent,True
+212,Will it happen in the next months?,Ambivalent,Clear Reply,False
+213,What would you say to the people attracted to it?,Ambivalent,Ambivalent,True
+214,"How would you react to a scenario where a CIA officer, paramilitary or special operations soldier from the United States is captured in Iran or North Korea, interrogated in accordance with their interpretation of the Geneva Conventions, put on trial, and convicted based on secret evidence that they were not able to see?",Ambivalent,Ambivalent,True
+215,And is it maybe time for you to apply some of that direct pressure you referred to earlier?,Ambivalent,Ambivalent,True
+216,Concern about the attack on Beirut Airport,Ambivalent,Ambivalent,True
+217,"Is the administration at this time trying to play it both ways by appeasing the critics, suggesting that troop withdrawal is right around the corner, at the same time making no real commitments?",Ambivalent,Ambivalent,True
+218,"How can you say your policy is more successful, given that North Korea has apparently tested a nuclear weapon?",Ambivalent,Clear Non-Reply,False
+219,"Is the Vladimir Putin who said, The United States is undermining global security and provoking a new arms race, the same Vladimir Putin whose soul you looked into and found to be trustworthy? ",Clear Reply,Ambivalent,False
+220,Regret for not acting differently in light of the long history of deception.,Ambivalent,Ambivalent,True
+221," President Putin, what would it take for you to be convinced that such a system would not be a threat to Russian security?",Clear Reply,PARSE_ERROR,False
+222,"How would Russia respond if the U.S. went ahead with this anyway, as well as bringing Ukraine and Georgia into NATO?",Ambivalent,Ambivalent,True
+223,Did they discuss the schedule of further exchanges for the remaining part of the year?,Clear Reply,Ambivalent,False
+224,As a moral leader though?,Clear Reply,Clear Reply,True
+225," Do you still believe there is a relationship between Saddam Hussein, Zarqawi, and Al Qaida?",Ambivalent,PARSE_ERROR,False
+226," Do you feel that he's looking at what's been offered to the Iranians by the world community in terms of incentives and saying, I'd like a little of that for myself?",Ambivalent,Ambivalent,True
+227, Concerns of Provoking North Korea to Higher Levels of Hostility,Ambivalent,Ambivalent,True
+228,Alignment of the President's perspective with the Defense Secretary's response,Ambivalent,Ambivalent,True
+229,"Mr. President, did you ask Canada to reconsider joining in the Ballistic Missile Defense Shield?",Clear Reply,Clear Non-Reply,False
+230,Concern about the impact of a sagging economy on John McCain's chances of winning the election.,Ambivalent,Clear Non-Reply,False
+231,Are U.S.-Russian relations deteriorating?,Ambivalent,Ambivalent,True
+232,"How is it that you now find yourself in a situation where you have essentially an open rebellion on Capitol Hill led by some of the leading members of your own party, very respected voices in military affairs?",Ambivalent,Ambivalent,True
+233,How do you get a resolution that both sides will support?,Ambivalent,Ambivalent,True
+234,"Prime Minister, do you still think it's wrong and not in Canada's interest to join the BMD?",Ambivalent,Ambivalent,True
+235,Putting off immigration reform until the new Congress,Ambivalent,Ambivalent,True
+236,What is the President's reaction to the deal where the Government of Dubai would buy a share of the NASDAQ stock market?,Clear Reply,Clear Reply,True
+237,What is the connection between Iraq and the topic being discussed?,Clear Non-Reply,Clear Non-Reply,True
+238,Is it factually accurate that the administration had no meetings on bin Laden for 9 months after he left office?,Ambivalent,Clear Non-Reply,False
+239,What steps will you be doing in order to help Iraq to get out of chapter 7?,Clear Reply,Ambivalent,False
+240,The sufficiency of the Fed's half-point rate cut to stave off recession,Clear Non-Reply,Clear Non-Reply,True
+241,Willingness to rethink use of Presidential authority given criticisms and support for the Court,Ambivalent,Ambivalent,True
+242,Are you still pursuing him?,Clear Reply,Clear Reply,True
+243,"And, President Putin, is Russia now willing, if necessary, to vote for sanctions in the United Nations to stop Iran's nuclear preparations?",Ambivalent,Ambivalent,True
+244,"Have you found a solution to the case of computer hacker Gary McKinnon, as discussed last year?",Ambivalent,Ambivalent,True
+245,Is it because there is a fear that the U.S. doesn't have credibility in the region?,Ambivalent,Clear Non-Reply,False
+246,"Why the person mentioned Hizballah rockets but not Israeli bombs destroying Lebanon, and why they always give Israel a pass",Ambivalent,Ambivalent,True
+247,Clarification on the stance towards a nuclear North Korea.,Clear Reply,Clear Reply,True
+248,Would you be okay with other countries interpreting the Geneva Conventions as they see fit?,Ambivalent,Ambivalent,True
+249,"Do you stand by your figure, 30,000?",Clear Reply,Clear Reply,True
+250,Communication with the Defense Secretary,Clear Reply,Ambivalent,False
+251,"Did you ask Russia to take specific steps, for example with Iran, to agree to U.N. sanctions?",Ambivalent,Ambivalent,True
+252,What is the pressure point?,Clear Reply,Clear Reply,True
+253,Do you agree with the comparison between Hamas and Al Qaida?,Ambivalent,PARSE_ERROR,False
+254,Do you see a risk of triggering a wider war?,Ambivalent,Clear Non-Reply,False
+255,"What can President Bush and President Putin do to stop the violence and fighting in the Middle East, given the divisions among allies concerning Israel's use of excessive force?",Clear Reply,Ambivalent,False
+256,"And for the Prime Minister, did you offer any new assurances to the President—or do you plan to—that Israel will stop disputed settlement and construction activity?",Ambivalent,Clear Reply,False
+257,Contrast the impact on the economy if Republicans retain control of Congress versus what happens if Democrats take over.,Clear Reply,Clear Reply,True
+258,Can you comment on what looks like a judicial repudiation of your administration's policy on the treatment of terror suspects post-9/11?,Clear Non-Reply,Clear Non-Reply,True
+259," Is the goalpost moving, sir?",Clear Reply,Clear Reply,True
+260,The question Q is asking if the person being addressed voted in the Texas primary.,Clear Reply,Clear Reply,True
+261,"How do you feel about a lot of the foreign-owned companies buying out U.S. tech companies, especially those that have military contracts?",Ambivalent,Clear Reply,False
+262,At what point do you feel that you declare stalemate to try and reach common ground?,Ambivalent,Ambivalent,True
+263,"If it were headed—if it had been headed at the United States, how would our national ballistic missile system have taken it down?",Clear Non-Reply,Clear Non-Reply,True
+264,Closing Guantanamo Bay,Clear Non-Reply,Ambivalent,False
+265,"Is it a fair assumption that the CIA operatives are in Pakistan, cooperating with the Pakistanis, and that they're sharing everything with you and vice versa?",Clear Non-Reply,Clear Non-Reply,True
+266,"What is the redline for North Korea, given what has happened over the past few months?",Ambivalent,Clear Non-Reply,False
+267, Is a no-fly zone under consideration as an option?,Clear Reply,Ambivalent,False
+268,Expectations of success for the new security crackdown in Baghdad,Clear Reply,Ambivalent,False
+269,Did you discuss the possibility of referring the matter to the U.N. Security Council?,Ambivalent,Ambivalent,True
+270, How would you characterize the relationship between the United States and the United Nations at this point?,Ambivalent,Ambivalent,True
+271,Does he pose any particular unique problems to deal with?,Ambivalent,Ambivalent,True
+272,Are you concerned that the results of the exit polls may embolden voters from the other party?,Ambivalent,Ambivalent,True
+273,Is it fair for people to ask questions about your commitment to accountability?,Ambivalent,Clear Non-Reply,False
+274,What is each person's position on whether the U.S. needs permission to strike inside Pakistan if Usama bin Laden is located?,Ambivalent,Ambivalent,True
+275,"Should the abstinence provision, which allocates a significant portion of the money on abstinence programs, be dropped?",Ambivalent,Clear Reply,False
+276,How important is Grand Ayatollah Ali al-Sistani in the equation moving forward?,Ambivalent,Clear Reply,False
+277,Are you prepared to pass on the fate of the war to the next President?,Clear Non-Reply,Ambivalent,False
+278,How will you work with someone who has such little respect for your leadership and who is third in line to the Presidency?,Ambivalent,Ambivalent,True
+279,Was the President able to give President Karzai the assurances he sought about reducing civilian casualties in Afghanistan?,Ambivalent,Ambivalent,True
+280,Desire for Ben Bernanke to stay on when his term ends in January,Ambivalent,Ambivalent,True
+281, Did she go already?,Ambivalent,Clear Reply,False
+282," Did the elections come up, the Russian elections?",Clear Reply,Clear Reply,True
+283,"Is there an obvious change that could be made to the security status, particularly in Baghdad right now?",Ambivalent,Ambivalent,True
+284,Do they still have concerns about Iran's role in Afghanistan?,Ambivalent,Clear Reply,False
+285,Possible appointment to another position at the Department of Justice,Clear Non-Reply,Clear Non-Reply,True
+286,Whether the resolution should include a call for an immediate ceasefire,Ambivalent,Ambivalent,True
+287, Do the new findings take the military option off the table?,Ambivalent,Ambivalent,True
+288,"What does President Kikwete think it says about America, that the country might elect a black President with African roots?",Clear Non-Reply,Clear Non-Reply,True
+289,What say you about the U.S. boycotting the conference?,Ambivalent,Ambivalent,True
+290,What is different about the current set of warnings?,Clear Reply,Ambivalent,False
+291, How do you square all of the consequences mentioned for pulling out with the idea that they wouldn't have been there if the initial action hadn't occurred?,Clear Reply,Ambivalent,False
+292,"There are reports that your administration is speeding up delivery of laser-guided missiles to Israel and bunker-buster bombs. And do you see this—if this is true, do you see it as contradictory? On one hand, you allow Israel to kill people, and civilian, in particular, and on the other hand, you're trying to aid the very people that have been suffering and killed as a result?",Clear Reply,Clear Reply,True
+293,Are you following this movement?,Clear Reply,Ambivalent,False
+294,Are you still convinced that Iran is trying to build a nuclear bomb?,Ambivalent,Clear Reply,False
+295,Non-Proliferation Treaty and Iran's knowledge to enrich uranium,Ambivalent,Ambivalent,True
+296,"Would you take the leading role, along with President Musharraf, to build these bridges and promote interfaith harmony to avert any wrong notion of clash of civilizations?",Ambivalent,Ambivalent,True
+297,Does it concern you that the Beirut Airport has been bombed?,Ambivalent,Clear Non-Reply,False
+298,What are your thoughts?,Clear Reply,Ambivalent,False
+299,"And if not, why not?",Clear Reply,Clear Reply,True
+300, Previous conversations with Prime Minister Maliki: Did you feel confident that he shares your view on Iraq?,Clear Non-Reply,Clear Non-Reply,True
+301,"What does this say about the Democratic leadership, the way they're running Congress, and your relations with the leaders?",Ambivalent,Ambivalent,True
+302,Conditions on the ground in Baghdad and the potential significant withdrawal of American forces by the end of the year,Ambivalent,Ambivalent,True
+303," If so, why?",Ambivalent,Ambivalent,True
+304,Request for the speaker's understanding and response to the frustration,Ambivalent,Ambivalent,True
+305,"Mr. President, we know that you talked about Iran and North Korea. Let me ask you if you moved forward at all on these issues?",Clear Reply,Ambivalent,False
+306," Is there anything that's disappointed you about the recovery, the Federal response?",Ambivalent,Ambivalent,True
+307,Why shouldn't Americans see the U.S. policy regarding North Korea as a failed one?,Clear Reply,Ambivalent,False
